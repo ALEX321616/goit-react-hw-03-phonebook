@@ -1,0 +1,14 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgb(47, 0, 255);
+  height: auto;
+  width: 400px;
+}
+.formItem {
+  display: flex;
+  margin: 25px;
+}
+.formButton {
+  margin: 20px;
+}
